@@ -1,0 +1,3 @@
+[submodule "scratch_mlp"]
+	path = scratch_mlp
+	url = https://github.com/omar-florez/scratch_mlp.git
