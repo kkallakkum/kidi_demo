@@ -57,8 +57,8 @@ def plot_value_array(i, predictions_array, true_label):
 
 
 def plot_train_hist(history, epochs):
-    acc = history.history['accuracy']
-    val_acc = history.history['val_accuracy']
+    acc = history.history['acc']
+    val_acc = history.history['val_acc']
 
     loss = history.history['loss']
     val_loss = history.history['val_loss']
