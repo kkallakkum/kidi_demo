@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='kidi_demo',
+    name='kididemo',
     version='0.1',
     packages=['scratch_mlp'],
     url='https://github.com/kkallakkum/kidi_demo',
